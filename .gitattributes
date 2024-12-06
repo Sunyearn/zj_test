@@ -1,1 +1,6 @@
 Model-2D-HAI-HIG-F filter=lfs diff=lfs merge=lfs -text
+Model-2D-HAI-HIG filter=lfs diff=lfs merge=lfs -text
+Model-2D-HAI-SIG filter=lfs diff=lfs merge=lfs -text
+Model-2D-HAI-SSIG filter=lfs diff=lfs merge=lfs -text
+Model-2D-SAI-HIG filter=lfs diff=lfs merge=lfs -text
+Model-2D-SAI-SIG filter=lfs diff=lfs merge=lfs -text
